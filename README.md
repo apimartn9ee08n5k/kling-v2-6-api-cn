@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Kling v2.6 (kling-v2-6) output preview generated through APIMart">
 </p>
 
-> per generated second, by resolution — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.0368 per second** at 720P (1080P $0.0625 · 1080P+Sound $0.125) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-d94c2d)** · **[Live pricing](https://go.apimart.ai/k-7bd635)** · **[Model page](https://go.apimart.ai/k-5ab8e7)** · [⚡ 60-second quickstart](#quickstart)
 
